@@ -1,0 +1,28 @@
+date,festival,type,state,expected_effect
+2020-05-01,May Day,National,All,reporting_dip
+2020-05-25,Eid-ul-Fitr,Religious,All,congregation_surge
+2020-08-01,Bakrid,Religious,All,congregation_surge
+2020-08-15,Independence Day,National,All,reporting_dip
+2020-08-22,Vinayaka Chaturthi,Religious,Tamil Nadu,congregation_surge
+2020-10-02,Gandhi Jayanti,National,All,reporting_dip
+2020-10-25,Ayudha Pooja & Vijayadashami,Religious,Tamil Nadu,reporting_dip_then_surge
+2020-10-30,Milad-un-Nabi,Religious,All,congregation_surge
+2020-11-14,Deepavali,Religious,All,congregation_surge_and_dip
+2020-12-25,Christmas,Religious,All,congregation_surge
+2021-01-01,New Year Day,Celebration,All,congregation_surge
+2021-01-14,Pongal (Makara Sankranti),Cultural,Tamil Nadu,reporting_dip_then_surge
+2021-01-15,Thiruvalluvar Day & Mattu Pongal,Cultural,Tamil Nadu,reporting_dip
+2021-01-16,Uzhavar Thirunal,Cultural,Tamil Nadu,reporting_dip
+2021-01-26,Republic Day,National,All,reporting_dip
+2021-04-02,Good Friday,Religious,All,reporting_dip
+2021-04-14,Tamil New Year & Ambedkar Jayanti,Cultural/National,Tamil Nadu,congregation_surge
+2021-05-01,May Day,National,All,reporting_dip
+2021-05-14,Ramzan (Eid-ul-Fitr),Religious,All,congregation_surge
+2021-07-21,Bakrid,Religious,All,congregation_surge
+2021-08-15,Independence Day,National,All,reporting_dip
+2021-08-20,Muharram,Religious,All,reporting_dip
+2021-09-10,Vinayaka Chaturthi,Religious,Tamil Nadu,congregation_surge
+2021-10-02,Gandhi Jayanti,National,All,reporting_dip
+2021-10-14,Ayudha Pooja,Religious,Tamil Nadu,reporting_dip
+2021-10-15,Vijaya Dasami,Religious,Tamil Nadu,reporting_dip_then_surge
+2021-10-19,Milad-un-Nabi,Religious,All,congregation_surge
