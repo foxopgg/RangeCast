@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+
+# Node.js
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+
+# Datasets and generated files
+datasets/
+data/
+outputs/
+logs/
+
+# Model files
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints/
