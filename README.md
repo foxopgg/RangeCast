@@ -20,8 +20,7 @@ District health officers must order hospital beds, oxygen cylinders, diagnostic 
 ## 🏗️ Project Architecture & Modules
 
 ```
-RangeCast
-/
+RangeCast/
 ├── app.py              # Streamlit multi-disease decision portal (Home, Scorecard, Plan, Compare, Alerts)
 ├── backtest.py         # Rolling-origin walk-forward backtest engine across historical outbreaks
 ├── conformal.py        # Online Adaptive Conformal Inference (ACI) & Outbreak Shift Alert detector
@@ -135,8 +134,7 @@ $$q = \frac{C_u}{C_u + C_o}$$
 ### 1. Setup Environment
 ```bash
 # Clone and enter workspace
-cd "RangeCast
-"
+cd "RangeCast"
 
 # Create virtual environment & activate
 python3 -m venv .venv
